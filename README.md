@@ -23,6 +23,7 @@ This project focuses on creating an **AI Sketch Generator App** where users can 
 - **Firebase**: Backend services for authentication, database, and ad integration.
 - **AI Model Integration**: Generates realistic sketches based on input.
 
+
 ## How It Works
 
 1. **User Input**:
