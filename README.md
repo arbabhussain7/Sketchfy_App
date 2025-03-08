@@ -1,4 +1,4 @@
-# scratchify ✏️🎨
+# Sketchfy_App ✏️🎨
 
 This project focuses on creating an **AI Sketch Generator App** where users can generate sketches based on their requirements or uploaded images. The app provides a seamless experience with options to either watch ads or pay to generate high-quality sketches. Built with Flutter, GetX, and Firebase, this app combines advanced AI functionalities with a smooth user interface.
 
